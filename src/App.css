@@ -1,0 +1,55 @@
+.App{
+  text-align: center;
+  background-image: linear-gradient(rgb(50, 7, 240),rgb(64, 9, 167));
+  display: flex;
+
+}
+.container{
+  width: 330px;
+  height: 600px;
+  text-align: start;
+  border: none;
+  padding: 40px;
+  margin: 30px; 
+  background-color: aliceblue;
+  font-size: 20px;
+  border-radius: 40px;
+ 
+}
+.card-content{
+  text-align: start;
+  background-color: aliceblue;
+  width: 350px;
+  height: 400px;
+  font-size: 20px;
+  
+}
+.title-card{
+  text-align: center;
+}
+.heading{
+  font-size: 50px;
+}
+.heading-title{
+  font-size: small;
+}
+.btn-button{
+  text-align: center;
+  width: 300px;
+  height: 50px;
+  background-color: rgb(7, 71, 168);
+  border: 0ch;
+  border-radius: 20pc;
+  color: aliceblue;
+  font-size: large;
+}
+.category{
+  color: rgb(166, 182, 197);
+}
+.text-muted{
+  color: rgb(151, 160, 168);
+}
+.container:hover{
+  margin:2px;
+
+}
